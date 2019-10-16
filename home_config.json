@@ -1,4 +1,5 @@
-[
+{
+	"banner":[
     {
         "bannerImgUrl":"http://mmbiz.qpic.cn/mmbiz_jpg/fTwwiccGfcvY9cy3Nyiavp5l0j5aqKg5q6P3brqicIsA0cYl6pibTbr2mia9diaV0epdnH0W1GLv4eVWLkH6U6Qh1xvQ/0",
         "bannerContentUrl":"http://tougao.12371.cn/liebiao.php?fid=150&filter=typeid&typeid=55"
@@ -16,3 +17,4 @@
         "bannerContentUrl":"https://ydjw.github.io/jwc/#/community/dynamic?objectId=nrwJTTTa"
     }
 ]
+}
