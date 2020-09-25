@@ -2,27 +2,24 @@
   "data": {
     "banner": [
       {
-        "bannerImgUrl": "http://mmbiz.qpic.cn/mmbiz_jpg/fTwwiccGfcvY9cy3Nyiavp5l0j5aqKg5q6P3brqicIsA0cYl6pibTbr2mia9diaV0epdnH0W1GLv4eVWLkH6U6Qh1xvQ/0",
-        "bannerContentUrl": "http://tougao.12371.cn/liebiao.php?fid=150&filter=typeid&typeid=55"
+        "bannerImgUrl": "https://raw.githubusercontent.com/ydjw/config/master/img/banner_0.png",
+        "bannerContentUrl": "com.qfnu.ydjw.business.tabfragment.education.empty_class_room.EmptyClassRoomActivity"
       },
       {
-        "bannerImgUrl": "https://pic.kuaizhan.com/g3/e8/03/a44f-e710-41c5-93f3-eb0778e4542e51",
-        "bannerContentUrl": "https://ydjw.github.io/jwc/#/common/pyfa "
+        "bannerImgUrl": "https://raw.githubusercontent.com/ydjw/config/master/img/banner_1.png",
+        "bannerContentUrl": "https://mp.weixin.qq.com/s/ERW_Vkr_yurOZb2Zs8me8Q"
       },
       {
-        "bannerImgUrl": "https://pic.kuaizhan.com/g3/96/a7/65a7-4722-4309-9542-5ae41fddff2929",
-        "bannerContentUrl": "https://mp.weixin.qq.com/s/eUEFGzmzeeB4kdAuVHoSjQ"
-      },
-      {
-        "bannerImgUrl": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1569258204733&di=10466dab520180bdb40a3d5fbfda6900&imgtype=0&src=http%3A%2F%2Fku.90sjimg.com%2Fback_pic%2F05%2F19%2F02%2F7559c4c30540ca8.jpg",
-        "bannerContentUrl": "https://ydjw.github.io/jwc/#/community/dynamic?objectId=nrwJTTTa"
+        "bannerImgUrl": "https://raw.githubusercontent.com/ydjw/config/master/img/banner_2.png",
+        "bannerContentUrl": "https://mp.weixin.qq.com/s/SF8pOCbV28f-NNRbAMTBbA"
       }
+
     ],
     "show_spalsh_ad": false,
     "website": "http://app.zhuandian.site/jwc/#/",
     "kxr": "20200914",
     "splash_img": {
-      "splashImgUrl": "http://mmbiz.qpic.cn/mmbiz_jpg/mdC8qJ5KrzcYTrIL8AJBs4YFtn0ibfL6q6xgF1ypIeB9Zu7JawgYRQtOYypVkIXWcdOnnibicQryvEas8v4AZiaxyA/0",
+      "splashImgUrl": "https://raw.githubusercontent.com/ydjw/config/master/img/splash.png",
       "autoScale": false,
       "imgDesc": "",
       "splashContentUrl": "https://ydjw.github.io/jwc/#/common/appIntro"
@@ -30,7 +27,7 @@
     "notificationLabel": "同学们在软件使用过程用如有任何问题，可随时关注我们的官方微博《曲园掌上教务》或者微信公众号《掌上曲园》向我们反馈!",
     "appSecondFloor": {
       "showSecondFloor": true,
-      "secondFloorImg": "http://mmbiz.qpic.cn/mmbiz_jpg/mdC8qJ5KrzcYTrIL8AJBs4YFtn0ibfL6q6xgF1ypIeB9Zu7JawgYRQtOYypVkIXWcdOnnibicQryvEas8v4AZiaxyA/0",
+      "secondFloorImg": "https://raw.githubusercontent.com/ydjw/config/master/img/second_floor.png",
       "secondFlootUrl": "https://ydjw.github.io/jwc/#/education/englishStroy?objectId=OcqUCCCW"
     },
     "welcome": "永远年轻，永远热泪盈眶"
