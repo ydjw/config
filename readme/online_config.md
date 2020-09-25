@@ -3,7 +3,9 @@
 ###  bannerEntity:首页Banner Json串
 
 >   如果要打开的网页需要同步教务处cookie，可直接在url后面添加openWithJwcCookie=true即可，
-    如：http://zhjw.qfnu.edu.cn/jsxsd/grxx/xsxx?openWithJwcCookie=true（如果不明白怎么配置，可以先问我然后再配置）
+    如：http://zhjw.qfnu.edu.cn/jsxsd/grxx/xsxx?openWithJwcCookie=true  
+  （如果不明白怎么配置，可以先问我然后再配置）
+   如需要跳转app内部页面，直接填写完整包名路径即可：如 com.qfnu.ydjw.business.tabfragment..EmptyClassRoomActivity
 
 
 ### show_spalsh_ad
@@ -13,7 +15,8 @@
 
 ### website
 
->   前端域名配置： 自己服务器：http://app.zhuandian.site/jwc/#/ github代理：https://ydjw.github.io/jwc/#/ 有时候可能会卡，建议两个服务切换下使用
+>   前端域名配置： 自己服务器：http://app.zhuandian.site/jwc/#/  
+     github代理：https://ydjw.github.io/jwc/#/ 有时候可能会卡，建议两个服务切换下使用
 
 ### kxr
 
@@ -22,7 +25,9 @@
 
 ###  splash_img
 
-> 闪屏页图片（不配置在线splash请把“splashImgUrl”参数设置成“”，自动加载bing图片），autoScale：图片是否启用缩放动画，默认true，imgDesc：图片描述介绍，不需要描述，用空字符串占位即可
+> 闪屏页图片（不配置在线splash请把“splashImgUrl”参数设置成“”，自动加载bing图片）  
+ autoScale：图片是否启用缩放动画，默认true，  
+imgDesc：图片描述介绍，不需要描述，用空字符串占位即可
 
 
 
@@ -32,4 +37,6 @@
 
 ### appSecondFloor
 
-> app首页下拉进入二楼页面配置，showSecondFloor：是否开启二楼入口，secondFloorImg：开启二楼入口后用户下拉可见的图片url，secondFloorUrl：进入二楼后加载的H5页地址
+> app首页下拉进入二楼页面配置，showSecondFloor：是否开启二楼入口，  
+ secondFloorImg：开启二楼入口后用户下拉可见的图片url，  
+ secondFloorUrl：进入二楼后加载的H5页地址
